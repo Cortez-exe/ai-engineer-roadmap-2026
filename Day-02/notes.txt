@@ -1,0 +1,5 @@
+Python
+FastAPI
+Git
+AI Engineering
+Machine Learning
